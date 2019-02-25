@@ -1,6 +1,6 @@
 # TicTacToeUI-Android
 
-Check out the new style for App Design aims for Tic Tac Toe Game...😉😀😁😎
+Check out the new styles for App Design aims for Tic Tac Toe Game...😉😀😁😎
 
 ## Screenshots
 
